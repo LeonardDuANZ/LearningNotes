@@ -22,7 +22,7 @@ PR and issues are numbering together.
 blame function: to show all the latest history for lines.
 
 ## Github Action
-Automating tasks in Github. Event-dtiven. Live in repo. Based on YAML syntax. Part of github, lots of templates, free plan.
+Automating tasks in Github. Event-driven. Live in repo. Based on YAML syntax. Part of github, lots of templates, free plan.
 
 SDLC: software development life cycle.
 
