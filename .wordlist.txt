@@ -1,0 +1,17 @@
+md
+github
+config
+repo
+git
+YAML
+SDLC
+gitFlow
+Terraform
+IaC
+terraform
+tfstate
+bool
+tf
+TF
+json
+tfvars
