@@ -15,3 +15,5 @@ tf
 TF
 json
 tfvars
+init
+fmf

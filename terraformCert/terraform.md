@@ -6,7 +6,7 @@ Idempotent: terraform apply to create some resources already done before, they w
 
 Consistent: terraform using .tfstate file to store, track and manage the states of every resource.
 
-- Declartive:
+- Declarative:
     ```
     food taco "bean-taco" {
         ingredients = ["beans", "cheese", "lettuce", "salsa"]
@@ -18,7 +18,7 @@ Consistent: terraform using .tfstate file to store, track and manage the states 
     get shell
     get beans
     get cheese
-    get letture
+    get lettuce
     get salsa
 
     put beans in shell
