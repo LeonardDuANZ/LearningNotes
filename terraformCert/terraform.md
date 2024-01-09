@@ -80,3 +80,9 @@ variables running rank (the last one wins):
 4. -var-file flag
 5. -var flag :-var="name"=value
 6. command line prompt
+
+### state commands
+* terraform state list
+* terraform state show ADDRESS
+* terraform state mv SOURCE DESTINATION
+* terraform state rm ADDRESS
